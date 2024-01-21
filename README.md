@@ -1,3 +1,7 @@
 # INVISIBLE_RADIO
 
-Link to Assessment Video: 
+Title: SoundscapeSync
+
+Video Link: https://www.youtube.com/watch?v=ZlfAZ0AjkJg
+
+Process Journal: https://github.com/silliestdevil/PROCESS_JOURNAL
